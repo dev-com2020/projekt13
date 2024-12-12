@@ -2,3 +2,4 @@ To jest nowy plik
 123456
 byłem tutaj - Tomek
 tutaj jest super kod :)
+coś...
